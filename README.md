@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# zener-diode-test-book
-Zener diode test results with graphics, drawings and with pyton codes
-=======
 # Component Characteristics Test
  In real world, sometimes, components specifications is not suitable with datasheets. For critical applications, we have to compare the results with components own specs. Verified components can be used with confidence as a replacement for the originally installed component.
 
@@ -108,4 +104,3 @@ plt.show()
 
 
 We can observe same behaviour between 25°C and 50°C degrees in current curves. When temperatures is getting higher, leakage is increasing. At cold clamps early.
->>>>>>> master
